@@ -1,4 +1,4 @@
-# sendgrid Client Api V3
+# Sendgrid Client Api V3
 
 Sendgrid Client Api V3 implementation.
 
