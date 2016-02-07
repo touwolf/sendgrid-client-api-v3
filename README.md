@@ -82,13 +82,21 @@ Bridje Core IoC library https://github.com/bridje/bridje-framework/wiki/Bridje-I
         </dependency>
         
 
-
-An HTTP & HTTP/2 client for Android and Java applications https://github.com/square/okhttp/wiki
+HTTP & HTTP/2 client for Android and Java applications https://github.com/square/okhttp/wiki
 
           <dependency>
             <groupId>com.squareup.okhttp3</groupId>
             <artifactId>okhttp</artifactId>
             <version>3.0.1</version>
+        </dependency>
+        
+
+Java library that can be used to convert Java Objects into their JSON representation https://github.com/google/gson
+
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.4</version>
         </dependency>
 
 
