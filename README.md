@@ -2,6 +2,74 @@
 
 Sendgrid Client Api V3 implementation.
 
+## API Method Implemented
+
+### Bounces API 
+
+    List all bounces - GET
+    Delete bounces - DELETE
+    Get a bounce - GET
+    Delete a bounce - DELETE
+    
+### Contacts API
+
+Custom Fields
+
+    Create a Custom Field - POST
+    List all Custom Fields - GET
+    Delete a Custom Field - DELETE
+    List Reserved Fields - GET
+
+Lists
+
+    Create a List - POST
+    List All Lists - GET
+    Delete Multiple Lists - DELETE
+    Retrieve a List - GET
+    Update a List - PATCH
+    Delete a List - DELETE
+    List Recipients on a List - GET
+    Add a single Recipient to a List - POST
+    Delete a Single Recipient From a List - DELETE
+    Add Multiple Recipients To a List - POST
+
+Recipients
+
+    Add Recipients - POST
+    Update a Recipient - PATCH
+    Delete one or more Recipients - DELETE
+    List Recipients - GET
+    Retrieve a Recipient - GET
+    Delete a single Recipient - DELETE
+    Get Count of Billable Recipients - GET
+    Get Count of Recipients - GET
+    Get Recipients Matching Search Criteria - GET
+
+Segments
+
+    Create a Segment - POST
+    List all Segments - GET
+    Retrieve a Segment - GET
+    Update a Segment - PATCH
+    Delete a Segment - DELETE
+    List Recipients on a Segment
+
+### Campaing API
+
+Campaigns
+
+    Create a Campaign - POST
+    Get all Campaigns - GET
+    View a Campaign - GET
+    Delete a Campaign - DELETE
+    Update a Campaign - PATCH
+    Send a Campaign - POST
+    Schedule a Campaign - POST
+    Update a Scheduled Campaign - PATCH
+    Unschedule a Scheduled Campaign - DELETE
+    Send a Test Campaign - POST
+
+
 Dependencies
 ============
 
