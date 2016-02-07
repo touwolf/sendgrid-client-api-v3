@@ -2,7 +2,7 @@
 
 Sendgrid Client Api V3 implementation.
 
-## API Method Implemented
+## API Methods Implemented
 
 ### Bounces API 
 
