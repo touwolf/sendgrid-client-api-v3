@@ -1,4 +1,4 @@
-# sendgrid-client-api-v3
+# sendgrid Client Api V3
 
 Sendgrid Client Api V3 implementation.
 
@@ -24,7 +24,7 @@ An HTTP & HTTP/2 client for Android and Java applications https://github.com/squ
         </dependency>
 
 
-
+--
 
 The project is licensed under the MIT License:
 
