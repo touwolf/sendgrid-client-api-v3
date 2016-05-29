@@ -1,4 +1,4 @@
-# Sendgrid Client Api V3
+# Sendgrid Client Api V3 for handler Campaign
 
 Sendgrid Client Api V3 implementation.
 
